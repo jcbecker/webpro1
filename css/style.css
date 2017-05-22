@@ -20,3 +20,7 @@ img.cardimgpost{
 /*    width:auto;/* you can use % 
     height: 250px;*/
 }
+
+.parallax-container {
+     height: 350px;
+   }    
