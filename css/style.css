@@ -15,3 +15,8 @@ body {
 main {
      flex: 1 0 auto;
 }
+
+img.cardimgpost{
+/*    width:auto;/* you can use % 
+    height: 250px;*/
+}
