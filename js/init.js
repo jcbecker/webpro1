@@ -1,7 +1,9 @@
 (function($){
     $(".button-collapse").sideNav();
 })(jQuery); // end of jQuery name space
-
+$(document).ready(function(){
+      $('.carousel').carousel();
+    });
 
     
 $(document).ready(function(){
